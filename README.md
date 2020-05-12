@@ -1,2 +1,2 @@
 # POS_3B_Kneipensport
-Filip Angerschond, Florian Treiblmayr und Konstantin Makor, wird de beste App überhaupt
+Philipp Angerschmid, Florian Treiblmayr und Konstantin Makor, wird de beste App überhaupt
