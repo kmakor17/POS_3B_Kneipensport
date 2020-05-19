@@ -7,7 +7,7 @@ Konstantin Markor -
 Florian Treiblmayr
 
 # Design
-![Design1](https://ibb.co/7zNnyQC)
+![Design1](https://s12.directupload.net/images/200519/7o4yy4fi.jpg)
 
 # Programs
 1) Android Studio - Coding
