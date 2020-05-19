@@ -4,7 +4,7 @@ Darts with Friends ist eine Möglichkeit mit seinen Kumpels eine Dart-Party zu v
 # Engineers
 Philipp Angerschmid -
 Konstantin Markor -
-Florian Treiblmayr -
+Florian Treiblmayr
 
 # Design
 
@@ -19,7 +19,7 @@ Florian Treiblmayr -
 Background Sync Service
 
 # Tasks
-  # Zeitplan
+  ## Zeitplan
   1) 13.5.2020 
     Gruppeneinteilung
   2) 19.5.2020 
@@ -40,7 +40,7 @@ Background Sync Service
     Testen und Bugs fixen
   7) 24.6.2020 
     Präsentation
-  # Features
+  ## Features
   1) SMS Anfrage für ein Spiel
   2) Gespielte Spiele anzeigen
   3) Location Nachricht wenn hier schon einmal gespielt
