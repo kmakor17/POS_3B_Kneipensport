@@ -7,7 +7,7 @@ Konstantin Markor -
 Florian Treiblmayr
 
 # Design
-![Design1](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo_Bild_am_Sonntag_%28Bams%29.svg/1200px-Logo_Bild_am_Sonntag_%28Bams%29.svg.png)
+![Design1](https://ibb.co/7zNnyQC)
 
 # Programs
 1) Android Studio - Coding
