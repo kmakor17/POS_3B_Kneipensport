@@ -7,8 +7,8 @@ Konstantin Markor -
 Florian Treiblmayr
 
 # Design
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo_Bild_am_Sonntag_%28Bams%29.svg/1200px-Logo_Bild_am_Sonntag_%28Bams%29.svg.png)
+Format: ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Logo_Bild_am_Sonntag_%28Bams%29.svg/1200px-Logo_Bild_am_Sonntag_%28Bams%29.svg.png)
 
 # Programs
 1) Android Studio - Coding
